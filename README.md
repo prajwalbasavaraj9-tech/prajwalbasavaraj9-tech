@@ -52,9 +52,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalbasavaraj9-tech&show_icons=true&theme=dark" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwalbasavaraj9-tech&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
