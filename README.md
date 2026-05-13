@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently on a **90-day Python Backend Dev journey**
+- 🔭 Currently working on: An In-Memory Search Engine project.
 - 🧠 Mastering **DSA with Python** — 120+ problems solved
 - 📚 Learning **FastAPI, PostgreSQL, Redis, Docker**
 - 💡 Strong foundation in **OOP, Algorithms & Data Structures**
