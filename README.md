@@ -52,7 +52,9 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwalbasavaraj9-tech&show_icons=true&theme=tokyonight&count_private=true)---
+![GitHub Stats](...)
+
+---
 
 ### 📫 Connect with me
 
