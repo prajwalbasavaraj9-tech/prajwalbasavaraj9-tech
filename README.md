@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently on a **90-day Python Backend Dev journey**
-- 🧠 Mastering **DSA with Python** — 40+ problems solved
+- 🧠 Mastering **DSA with Python** — 120+ problems solved
 - 📚 Learning **FastAPI, PostgreSQL, Redis, Docker**
 - 💡 Strong foundation in **OOP, Algorithms & Data Structures**
 - 🎯 Goal: Land my first **Backend Developer role**
