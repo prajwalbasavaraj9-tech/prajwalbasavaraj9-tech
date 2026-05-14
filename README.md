@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Prajwal 👋</h1>
+<h1 align="center">Hi there, I'm Basavaraj 👋</h1>
 
 <p align="center">
   <b>Aspiring Python Backend Developer</b> from Hubballi, Karnataka 🇮🇳
